@@ -1,0 +1,11 @@
+//
+//  main.swift
+//  weakReference
+//
+//  Created by Kristofer Sartorial on 3/4/25.
+//
+
+import Foundation
+
+print("Hello, World!")
+
